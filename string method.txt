@@ -76,7 +76,7 @@
 // console.log(text2.length);
 
 
-// pad start = tuhain data hedees yamar datagaar ehleh vee bas ene ehluulehgej baigaa utga n heden udaa davtah vee  gedgiin zaaj ogno jishee n 0-eer ehelen gevel
+// pad start = tuhain data hedees yamar datagaar ehleh vee bas ene ehluulehgej baigaa utga n heden udaa davtah vee  gedgiin zaaj ogno jishee n 0-eer ehelen gevel.
 
 // let num 
 // num = 5
