@@ -1,0 +1,121 @@
+// length =  textiin urtiig toolno
+// let text
+// text = 'ABSDEFGJKLMNJFOKJFK'
+// var zadalh = text.split('')
+// for(var i = 0; i <= text.length; i++){
+//     console.log(zadalh[i]);
+// } 
+// slice = taslaj avah bolon songoh avah
+
+// let text
+// text = '123456789'
+// var zadlah = text.slice(0, 6)
+// var arr = []
+// for(var i = 0; i <= zadlah.length; i++){
+//     console.log(arr.push(parseInt(zadlah[i])))
+// }
+
+// substring = tuhain hesgiin lengtheern barij songoj avah
+
+// let text 
+// text = 'text1 text2 text3'
+
+// var subString = text.substring(6, 11)
+
+// for(var i = 0; i < subString.length; i++){
+//     console.log(subString[i])
+// }
+
+
+// substr =  suulees ehelj songoj avah jishee n -2 gevel suulees bolon hoinoosn ehelj songoj avah, hoinoos n unshidagaaraa davuu tal n
+// yamar ch data nii hamgiin suulchiinhees n barij avna
+// let text
+// text = 'text1 text2 text3'
+// var subStr = text.substr(-2)
+// if(subStr.toString() === 't'){
+//     console.log('ene bolj bna')
+// } else {
+//     console.log('taarsangui')
+// }
+
+
+// replace = zuier tuhain utgaa replace hiih buyu solino
+// let text 
+
+// text = 'text'
+// var promt = prompt('text gedeg ugiig solij replace hiih textee oruulnauu')
+// if(text !== promt){
+//     console.log(text.replace(`${text}`, `${promt}`))
+// } else {
+//     console.log('replace chadsangui, ijilhen bn zayu')
+// }
+
+
+// toUpperCase = string turliin datag textiin tomruulna
+
+// var text = prompt('jijig textee oruulnauuu')
+// if(text === ''){
+//     alert('hooson bna')
+// } else if(parseInt(text) == parseInt(text)){
+//     alert('too bna zuvhun text oruulnauuu')
+// } else if(text === text.toLocaleLowerCase()){
+//     console.log(text.toLocaleUpperCase() + '  ene textiig tom bolgoloo')
+// } else if(text.toLocaleUpperCase() === text.toLocaleUpperCase()){
+//     alert('tom useg orson bna');
+// } 
+
+
+
+// trim = hooson space bval tuhain textiin datanii hooson zaig toolohgui uyd eniig ashiglana hooson space toolohgui gesen ug
+
+
+// let text, text2
+// text = 'Hello world       '
+// text2 = text.trim()
+// console.log(text.length)
+// console.log(text2.length);
+
+
+// pad start = tuhain data hedees yamar datagaar ehleh vee bas ene ehluulehgej baigaa utga n heden udaa davtah vee  gedgiin zaaj ogno jishee n 0-eer ehelen gevel
+
+// let num 
+// num = 5
+// for(var i = 0; i <= num; i++){  
+//     var x = num.toString() 
+//     console.log(x.padStart(9,0))
+// }
+
+
+
+
+
+// chartAt = tuhain datanii yag ter hesgiin songoj avahaar bol eniig ashiglana jisheen bi 1 - 9 bailaa gej bodohod dundah  6 gesen utgiig  avahaar bol 
+
+
+// let text = '123456789'
+// let chartAt = text.charAt(5)
+// console.log(chartAt)
+
+
+
+// split = ene zuier zadlana tuhain text t datag
+
+
+// let text = 'tttt'
+// var split = text.split("")
+
+
+// parsefloat =  ene parseInt tte ijilhen  uildeltei number luu horvuulne
+
+// var num = parseFloat('6')
+
+
+
+
+
+
+// NUMBER METHOD 
+
+
+// toString() ene tuhain numberiig string bolgono 
+
