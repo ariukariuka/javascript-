@@ -90,7 +90,7 @@
 
 
 // chartAt = tuhain datanii yag ter hesgiin songoj avahaar bol eniig ashiglana jisheen bi 1 - 9 bailaa gej bodohod dundah  6 gesen utgiig  avahaar bol 
-
+// jisheen
 
 // let text = '123456789'
 // let chartAt = text.charAt(5)
