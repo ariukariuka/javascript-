@@ -1,3 +1,12 @@
+
+
+
+
+
+
+
+
+
 // length =  textiin urtiig toolno
 // let text
 // text = 'ABSDEFGJKLMNJFOKJFK'
@@ -5,6 +14,17 @@
 // for(var i = 0; i <= text.length; i++){
 //     console.log(zadalh[i]);
 // } 
+
+
+
+
+
+
+
+
+
+
+
 // slice = taslaj avah bolon songoh avah
 
 // let text
@@ -15,7 +35,15 @@
 //     console.log(arr.push(parseInt(zadlah[i])))
 // }
 
-// substring = tuhain hesgiin lengtheern barij songoj avah
+
+
+
+
+
+
+
+
+// substring = tuhain hesgiin lengtheern barij songoj avah 
 
 // let text 
 // text = 'text1 text2 text3'
@@ -27,7 +55,14 @@
 // }
 
 
-// substr =  suulees ehelj songoj avah jishee n -2 gevel suulees bolon hoinoosn ehelj songoj avah, hoinoos n unshidagaaraa davuu tal n
+
+
+
+
+
+
+// substr =  suulees ehelj songoj avah jishee n -2 gevel 
+//suulees bolon hoinoosn ehelj songoj avah, hoinoos n unshidagaaraa davuu tal n
 // yamar ch data nii hamgiin suulchiinhees n barij avna
 // let text
 // text = 'text1 text2 text3'
@@ -37,6 +72,12 @@
 // } else {
 //     console.log('taarsangui')
 // }
+
+
+
+
+
+
 
 
 // replace = zuier tuhain utgaa replace hiih buyu solino
@@ -49,6 +90,12 @@
 // } else {
 //     console.log('replace chadsangui, ijilhen bn zayu')
 // }
+
+
+
+
+
+
 
 
 // toUpperCase = string turliin datag textiin tomruulna
@@ -66,7 +113,8 @@
 
 
 
-// trim = hooson space bval tuhain textiin datanii hooson zaig toolohgui uyd eniig ashiglana hooson space toolohgui gesen ug
+// trim = hooson space bval tuhain textiin datanii hooson zaig 
+// toolohgui uyd eniig ashiglana hooson space toolohgui gesen ug
 
 
 // let text, text2
@@ -76,7 +124,14 @@
 // console.log(text2.length);
 
 
-// pad start = tuhain data hedees yamar datagaar ehleh vee bas ene ehluulehgej baigaa utga n heden udaa davtah vee  gedgiin zaaj ogno jishee n 0-eer ehelen gevel.
+
+
+
+
+
+// pad start = tuhain data hedees yamar datagaar ehleh vee bas ene 
+// ehluulehgej baigaa utga n heden udaa davtah vee  gedgiin zaaj ogno 
+// jishee n 0-eer ehelen gevel.
 
 // let num 
 // num = 5
@@ -89,12 +144,20 @@
 
 
 
-// chartAt = tuhain datanii yag ter hesgiin songoj avahaar bol eniig ashiglana jisheen bi 1 - 9 bailaa gej bodohod dundah  6 gesen utgiig  avahaar bol 
+// chartAt = tuhain datanii yag ter hesgiin songoj avahaar bol eniig ashiglana 
+//jisheen bi 1 - 9 bailaa gej bodohod dundah  6 gesen utgiig  avahaar bol 
 // jisheen
 
 // let text = '123456789'
 // let chartAt = text.charAt(5)
 // console.log(chartAt)
+
+
+
+
+
+
+
 
 
 
@@ -108,9 +171,6 @@
 // parsefloat =  ene parseInt tte ijilhen  uildeltei number luu horvuulne
 
 // var num = parseFloat('6')
-
-
-
 
 
 
